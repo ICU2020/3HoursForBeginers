@@ -44,9 +44,9 @@
 https://www.youtube.com/watch?v=4deVCNJq3qc&t=1s
 
 # 免费工具：
-## [Android科学上网工具链接](https://github.com/YoungBoy0048/Android-VPN)
+## [Android科学上网工具链接](https://github.com/YoungBoy0048/Android)
 
-## [iOS科学上网工具链接(需要切换美区id)](https://apps.apple.com/us/app/shadowx-vpn-better-than-a-vpn/id1176783416)
+## [iOS科学上网工具链接(Testflight)](https://github.com/YoungBoy0048/iOS)
         
 ## [字幕翻译工具链接](https://gist.github.com/qwertyuiop6/8499fe086491da90617fe17c32716d4e)
       
